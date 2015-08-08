@@ -1,0 +1,29 @@
+Copenhagen, June 2008
+
+SOLVESYS 49 1.2 is hereby released as free open-source software under the GNUv3 license. 
+In other words, you are free to modify/hack/tweak/optimize my code in any way you like and/or 
+release your own code based on SOLVESYS *provided* that you publish the source code as well.
+
+Except for the inclusion of the GPL, the source code is completely untouched as I left it almost 
+8 years ago, including (lack of) comments, abandoned code, typos and everything.
+
+To actually build the source, you'll have to modify the project file "solve49.hpp" as file locations
+will be different in your setup. The output binary is named "solve49.hp" which is identical to 
+the last and final "solvesys.lib" released 17/07-2000 (md5: a8852ef74c40bc22e8def3aed2ae8699).
+
+Although you're welcome to contact me by e-mail if you have any questions, please respect that I stopped
+developing code for the HP48/HP49 many years ago and cannot provide any support for SOLVESYS and/or the
+source code. 
+ 
+
+Happy hacking!
+
+Sune Bredahl
+sunespam@gmail.com
+
+
+
+
+
+
+

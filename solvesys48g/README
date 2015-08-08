@@ -1,0 +1,10 @@
+Copenhagen, November 2012.
+
+I recently discovered the Droid48 emulator for Android and was happy to see that my ol'
+HP48G Solvesys library was indeed still working (and now much faster!). 
+
+Also, I "discovered" that I had never released the system rpl source code for this library, unlike the HP49 version source which was released some years ago.
+
+So here it is, licensed under GPLv3, the original and untouched source of the Solvesys 4.03 library (released August 31 1999) which was the final version I did for the HP48G.
+
+I can't really provide any build instructions but I've included the script used to compile the library, so take a look at that if you really need to know.
