@@ -1,10 +1,9 @@
 HP48/49 SOLVESYS SOURCE CODE
 ----------------------------
 
-The repository is mainly for historical reasons as the code is no longer maintained. In particular, don't
-expect pull requests to have any effect!
+This is mainly a historical repository as the code is no longer maintained. In particular, don't expect pull requests to have any effect!
 
-Except for the HP48S version, all source code have previously been published to [link] (http://www.hpcalc.org).
+Except for the HP48S version, all source code have previously been published to [hpcalc.org] (http://www.hpcalc.org).
 
 Currently, the following source trees are available:
 
